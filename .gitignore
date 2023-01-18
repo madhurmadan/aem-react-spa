@@ -84,16 +84,15 @@ buildNumber.properties
 *.log
 
 # NPM
-node_modules/
 yarn.lock
 
 # Webpack
-build/
+
 dist/
 actions/common/
 
 # Frontend Maven Plugin
-node/
+
 
 # Tests
 coverage/
