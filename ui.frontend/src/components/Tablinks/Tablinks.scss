@@ -1,0 +1,27 @@
+hr {
+    background: var(--secondaryColor);
+    height: 3px;
+    
+}
+
+.link-list h3 {
+    color: var(--secondaryColor);
+    font-size: 20px;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.link-list>.component-content ul {
+    background: 0 0;
+    padding-top: 20px;
+}
+
+.link-list>.component-content li {
+    background: 0 0;
+    display: block;
+    font-size: 1pc;
+}
+
+.component-content, .field-copyright-text, .field-link, a {
+    color: #fff;
+}

@@ -1,0 +1,24 @@
+.field-title{
+
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 0 15px;
+    max-width: 25pc;
+}
+
+.social-list {
+    display: flex;
+    list-style: none;
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.social-list li:first-child {
+    margin-left: 0!important;
+}
+
+.social-list li+li {
+    margin-left: 15px;
+}
