@@ -24,6 +24,7 @@ export default class Blogs extends Component {
               <h3 className="article-title" >{this.props.title}</h3>
               <h2><span >{this.props.subtitle}</span></h2>
               <h1><span >{this.props.desc}</span></h1>
+			  <h2>Check Text</h2>
           </div>
           <div >
           <div className="row component column-splitter">{blogItems.map(blogItem =>                                                     
